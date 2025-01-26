@@ -1,6 +1,5 @@
 <h2>EmployeeMain.java</h2>
 <br>
-<br>
 <h4>OUTPUT<h4>
 <hr>
 <p>Employee ID: 1<br>
